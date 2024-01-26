@@ -1,0 +1,56 @@
+.myCenter {
+    text-align: center !important;
+}
+
+header.myBackground {
+    background: url("../img/myBackground.png") !important;
+    position: relative;
+    width: 100%;
+    padding-bottom: 100px;
+    color: white;
+}
+
+table{
+    margin-left: auto !important;
+    margin-right: auto !important;
+    margin-bottom: 1rem!important;
+    margin-top: 1rem!important;
+}
+
+td {
+    border: 4px solid white;
+    font-size: 25px;
+}
+
+.myOutcome {
+    color: green;
+}
+
+#myResetButton {
+    background-color: black !important;
+    font-size: larger;
+    display: block !important;
+}
+
+#myTitleImage {
+    margin-bottom: 1rem;
+}
+
+.myContactBackground {
+    background: #444444 !important;
+}
+
+.myEmailButton {
+    background-color: rgb(124, 124, 124) !important;
+    border-radius: 100%;
+    transition: all .35s;
+    
+}
+.myEmailButton:hover {
+    background-color: rgb(110, 110, 110) !important;
+    
+}
+
+section {
+    padding: 50px 0 !important;
+}
